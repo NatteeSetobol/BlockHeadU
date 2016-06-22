@@ -7,7 +7,7 @@ Extract the folders and files.
 Linux (compiled on Ubuntu)
 1. You must have OpenGL, SDL, SDL_TIFF and SDL_mix (you can do an apt-get if you have unbuntu)
 2. Open the folder you extract thats named blockheadU
-3. Open the folder named linux
+3. Open the folder named linux 
 4. Click on gcc_compile to compile it in C or g++_compile to compile it in C+++
 5. if #ifdef _SDL is comment out, uncomment it and if #ifdef _psp is not commented out then comment it out
 6. in main.c if #ifdef _SDL is comment out, uncomment it and if #ifdef _psp is not commented out then comment it out
